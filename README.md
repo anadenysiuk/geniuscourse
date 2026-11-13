@@ -1,2 +1,1 @@
-# geniuscourse
-fullstack development genious
+
